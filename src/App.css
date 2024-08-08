@@ -14,9 +14,8 @@ a{
     text-decoration: none;
 }
 
-.gradient__bg {
-    /* global 92%+ browsers support */
-    background: radial-gradient(circle at 3% 25%, rgba(255, 255, 0, 1) 0%, rgba(0, 40, 83, 1) 0%, rgba(4, 12, 24, 1) 100%);
+.gradient__bg{
+    background: radial-gradient(circle at 3% 25%, rgba(0, 40, 83, 1) 0%, rgba(4, 12, 24, 1) 100%);
 }
 
 .gradient__text{
